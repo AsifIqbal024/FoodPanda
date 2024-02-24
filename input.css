@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.div1_background {
+  position: relative;
+}
+.div1_main {
+  position: absolute;
+  top: 15px;
+  left: 270px;
+  display: flex;
+  justify-content: space-around;
+}
